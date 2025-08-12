@@ -17,9 +17,11 @@ A federated learning security framework (FedDefend) to detect and mitigate data 
 Explored transformer-based Arabic NLP for improved intent classification and slot-filling accuracy.  
 **Tech Stack:** Python, Hugging Face Transformers, PyTorch  
 
-### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025)* 
+### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025)*  
 A novel NAS approach optimizing model architectures with adaptive random search for improved performance.  
 **Tech Stack:** Python, TensorFlow, Keras, NumPy  
+📄 **Publication:** [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11073105)  
+
 
 ### 📖 Arabic Entity-Aware Prompting Machine Reading Comprehension
 Enhanced MRC systems for Arabic by incorporating entity-awareness in prompting.  
@@ -66,14 +68,19 @@ Applied statistical tests to compare algorithm performance across varied problem
 
 ## 🤝 Open for Collaboration
 I’m actively seeking:
-- Data Science/Analytics
+- Data Science/Analytics Roles
 - AI / Machine Learning Roles  
 - Cybersecurity in AI Projects  
 - NLP-focused collaborations  
 - Open-source contributions
-  
-## 🤝 Let’s Connect
-📧 **Email:** mohammedradman11@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/mrm1/ 
-💻 **GitHub:** https://github.com/mohammedradman1
+
 ---
+## 🤝 Let’s Connect  
+You can reach out to me via:  
+
+- 📧 **Email:** mohammedradman11@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/mrm1](https://www.linkedin.com/in/mrm1/)  
+- 💻 **GitHub:** [github.com/mohammedradman1](https://github.com/mohammedradman1)  
+- 🌐 **Portfolio:** [Your Portfolio Link Here]  
+---
+
