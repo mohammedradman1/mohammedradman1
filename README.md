@@ -17,7 +17,7 @@ A federated learning security framework (FedDefend) to detect and mitigate data 
 Explored transformer-based Arabic NLP for improved intent classification and slot-filling accuracy.  
 **Tech Stack:** Python, Hugging Face Transformers, PyTorch  
 
-### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025 [Link]([url](https://ieeexplore.ieee.org/document/11073105))* 
+### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025 [Link]([url](https://ieeexplore.ieee.org/document/11073105)) )* 
 A novel NAS approach optimizing model architectures with adaptive random search for improved performance.  
 **Tech Stack:** Python, TensorFlow, Keras, NumPy  
 
