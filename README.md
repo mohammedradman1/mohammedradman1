@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Mohammed Radman AL-Matari
-💻 Data Analyst | 📊 Data Scientist | 🛡️ AI Security Enthusiast
+ 📊 Data Scientist  |  💻 Data Analyst | 🛡️ AI Security Enthusiast
 
 I’m a **data-driven professional** with hands-on experience in **Data Science, Machine Learning, Deep Learning,IT auditing, quality management, and software development**.  
 My work blends **practical industry experience** with advanced academic research — enabling me to design, audit, and secure intelligent systems.
