@@ -17,7 +17,7 @@ A federated learning security framework (FedDefend) to detect and mitigate data 
 Explored transformer-based Arabic NLP for improved intent classification and slot-filling accuracy.  
 **Tech Stack:** Python, Hugging Face Transformers, PyTorch  
 
-### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025)*
+### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025 [Link]([url](https://ieeexplore.ieee.org/document/11073105)))* 
 A novel NAS approach optimizing model architectures with adaptive random search for improved performance.  
 **Tech Stack:** Python, TensorFlow, Keras, NumPy  
 
@@ -28,10 +28,6 @@ Enhanced MRC systems for Arabic by incorporating entity-awareness in prompting.
 ### 💬 Rating Prediction Using Text Reviews Sentiment Analysis
 Developed a model to predict numerical ratings from review sentiment.  
 **Tech Stack:** Python, Scikit-learn, NLTK, Pandas  
-
-### 🗂️ Arabic Text Topic Modeling: A Comparative Analysis of Latest Techniques
-Compared multiple topic modeling techniques for Arabic text.  
-**Tech Stack:** Python, Gensim, Scikit-learn, Pandas  
 
 ### 📊 Non-Parametric Statistical Analysis of Algorithmic Performance Across Multi-Dimensional Optimization Problems
 Applied statistical tests to compare algorithm performance across varied problem domains.  
@@ -77,9 +73,8 @@ I’m actively seeking:
   
 ## 🤝 Let’s Connect
 📧 **Email:** mohammedradman11@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/mrm1/
-💻 **GitHub:** https://github.com/mohammedradman1 
-
+🔗 **LinkedIn:** [Link]([url](https://www.linkedin.com/in/mrm1/)) 
+💻 **GitHub:** [Link]([url](https://github.com/mohammedradman1]) 
 ---
 
 ## 📌 Pinned Repositories
