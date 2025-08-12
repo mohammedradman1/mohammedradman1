@@ -34,6 +34,7 @@ Developed a model to predict numerical ratings from review sentiment.
 ### 📊 Non-Parametric Statistical Analysis of Algorithmic Performance Across Multi-Dimensional Optimization Problems
 Applied statistical tests to compare algorithm performance across varied problem domains.  
 **Tech Stack:** Python, SciPy, NumPy  
+📄 **Repo:** [Statical Analysis](https://github.com/mohammedradman1/Algorithms-Performance-Statistical-Analysis)  
 
 ---
 
