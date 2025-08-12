@@ -13,11 +13,11 @@ Here are some of my key works from my master’s journey — several have led to
 A federated learning security framework (FedDefend) to detect and mitigate data poisoning & model inversion attacks.  
 **Tech Stack:** Python, PyTorch, Scikit-learn, NumPy, Matplotlib  
 
-### 🔍 Arabic Joint Intent Classification and Slot-Filling Using Pre-Trained Models *(Submitted Paper)*
+### 🔍 Arabic Joint Intent Classification and Slot-Filling Using Pre-Trained Models
 Explored transformer-based Arabic NLP for improved intent classification and slot-filling accuracy.  
 **Tech Stack:** Python, Hugging Face Transformers, PyTorch  
 
-### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025 [Link]([url](https://ieeexplore.ieee.org/document/11073105)))* 
+### 🧠 Adaptive Random Neural Architecture Search *(Published in IEEE ICICS 2025 [Link]([url](https://ieeexplore.ieee.org/document/11073105))* 
 A novel NAS approach optimizing model architectures with adaptive random search for improved performance.  
 **Tech Stack:** Python, TensorFlow, Keras, NumPy  
 
@@ -66,7 +66,8 @@ Applied statistical tests to compare algorithm performance across varied problem
 
 ## 🤝 Open for Collaboration
 I’m actively seeking:
-- AI / Machine Learning Research Roles  
+- Data Science/Analytics
+- AI / Machine Learning Roles  
 - Cybersecurity in AI Projects  
 - NLP-focused collaborations  
 - Open-source contributions
@@ -74,7 +75,7 @@ I’m actively seeking:
 ## 🤝 Let’s Connect
 📧 **Email:** mohammedradman11@gmail.com
 🔗 **LinkedIn:** [Link]([url](https://www.linkedin.com/in/mrm1/)) 
-💻 **GitHub:** [Link]([url](https://github.com/mohammedradman1]) 
+💻 **GitHub:** [Link]([url](https://github.com/mohammedradman1)) 
 ---
 
 ## 📌 Pinned Repositories
