@@ -84,3 +84,5 @@ You can reach out to me via:
 - 🌐 **Portfolio:** [Your Portfolio Link Here]  
 ---
 
+⭐️ Thanks for visiting my GitHub! If you find something interesting, feel free to fork, contribute, or leave a star ⭐️ — your support means a lot!  
+
