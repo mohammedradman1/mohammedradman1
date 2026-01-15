@@ -48,6 +48,14 @@ Applied statistical tests to compare algorithm performance across varied problem
 
 ## 💼 Professional Experience
 
+### 📌 Data Scientist – Freelance
+**Freelance** *(Oct 2023 – Present)*  
+- Delivered end-to-end data science solutions, including **data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling.**
+- Built and evaluated **machine learning models** for classification, regression, and anomaly detection using Python, Pandas, NumPy, Scikit-learn, and PyTorch.
+- Developed data-driven insights and **dashboards** to support business decision-making.
+- Collaborated with clients to translate **business problems** into analytical and **ML solutions.**
+- Ensured data quality, model reliability, and clear documentation for non-technical stakeholders.
+  
 ### 📌 Quality Internal Auditor – IT  
 **TeleYemen – Yemeni International Telecom Company** *(Dec 2022 – Sep 2023)*  
 - Audited technical and non-technical processes to maintain **ISO-compliant Quality Management Systems (QMS)**.  
@@ -64,6 +72,11 @@ Applied statistical tests to compare algorithm performance across varied problem
 - Conducted IT audits to assess system compliance and security.  
 - Managed **website development & maintenance**, and performed IT admin tasks. 
 
+
+---
+
+## 🏆 Certification
+- Certified Data Management Professional - CDMP: [CDMP](https://certificates.cdmp.info/c03f48d9-17d5-4e94-b1e7-7ae3d213bc3a#acc.NfSDiwlr) 
 
 ---
 
